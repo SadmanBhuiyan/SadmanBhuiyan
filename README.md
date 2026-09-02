@@ -1,3 +1,5 @@
+<img src="./Assets/GitHub_Banner.png" alt="Sadman's banner photo">
+
 <h1 align="center">Hi 👋, I'm Sadman</h1>
 <h3 align="center">A passionate full stack learner from Bangladesh</h3>
 

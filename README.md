@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SadmanBhuiyan&show_icons=true&locale=en" alt="SadmanBhuiyan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadmanbhuiyan&" alt="sadmanbhuiyan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SadmanBhuiyan&" alt="SadmanBhuiyan" /></p>

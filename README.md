@@ -20,14 +20,17 @@
 
 <p align="center">
   <a href="https://github.com/SadmanBhuiyan">
-    <img src="https://img.shields.io/github/followers/SadmanBhuiyan?label=Followers&style=for-the-badge" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/SadmanBhuiyan?label=Followers&style=for-the-badge" alt="GitHub Followers">
   </a>
+
   <a href="https://github.com/SadmanBhuiyan?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories">
   </a>
 </p>
 
 ---
+
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
@@ -46,6 +49,8 @@ I'm a passionate developer focused on building modern, responsive, and scalable 
 
 ---
 
+<!-- ===================== TECHNOLOGIES ===================== -->
+
 ## 🛠️ Languages & Technologies
 
 ### 💻 Programming Languages
@@ -54,12 +59,15 @@ I'm a passionate developer focused on building modern, responsive, and scalable 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   </a>
+
   <a href="https://www.typescriptlang.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
   </a>
+
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   </a>
+
   <a href="https://www.php.net/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
   </a>
@@ -71,15 +79,19 @@ I'm a passionate developer focused on building modern, responsive, and scalable 
   <a href="https://www.w3.org/html/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
   </a>
+
   <a href="https://www.w3schools.com/css/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
   </a>
+
   <a href="https://react.dev/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
   </a>
+
   <a href="https://nextjs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
   </a>
+
   <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
   </a>
@@ -99,12 +111,15 @@ I'm a passionate developer focused on building modern, responsive, and scalable 
   <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
   </a>
+
   <a href="https://github.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   </a>
 </p>
 
 ---
+
+<!-- ===================== CURRENTLY WORKING ON ===================== -->
 
 ## 🚀 What I'm Currently Working On
 
@@ -122,88 +137,114 @@ Databases               █████████░░░░░░░░░�
 
 ---
 
-## 📚 My Learning Journey
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-```text
-HTML
- ↓
-CSS
- ↓
-JavaScript
- ↓
-TypeScript
- ↓
-React
- ↓
-Next.js
- ↓
-Backend & APIs
- ↓
-Databases
- ↓
-Full-Stack Development 🚀
-```
-
-I'm focusing on understanding the **fundamentals deeply** rather than simply learning frameworks.
-
----
-
-## 📌 Featured Projects
-
-<!-- Replace these with your actual repositories -->
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/SadmanBhuiyan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadmanBhuiyan&repo=YOUR_REPOSITORY_1&theme=tokyonight" />
+
+  <a href="https://github.com/SadmanBhuiyan/A-5-Dev-Stack">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=SadmanBhuiyan&repo=A-5-Dev-Stack&theme=tokyonight&hide_border=true"
+      alt="A-5-Dev-Stack"
+    />
   </a>
-  <a href="https://github.com/SadmanBhuiyan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadmanBhuiyan&repo=YOUR_REPOSITORY_2&theme=tokyonight" />
+
+  <a href="https://github.com/SadmanBhuiyan/Frame_It">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=SadmanBhuiyan&repo=Frame_It&theme=tokyonight&hide_border=true"
+      alt="Frame_It"
+    />
   </a>
+
 </p>
 
 ---
+
+<!-- ===================== GITHUB STATISTICS ===================== -->
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadmanBhuiyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sadman's GitHub stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SadmanBhuiyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Sadman's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanBhuiyan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanBhuiyan&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadmanBhuiyan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SadmanBhuiyan&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## 🐍 My Contribution Graph
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SadmanBhuiyan/SadmanBhuiyan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SadmanBhuiyan/SadmanBhuiyan/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SadmanBhuiyan/SadmanBhuiyan/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/SadmanBhuiyan/SadmanBhuiyan/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+
+  </picture>
 </p>
 
 ---
+
+<!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/md-sadman-amin-bhuiyan-suny">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="https://github.com/SadmanBhuiyan">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"
+      alt="GitHub"
+    />
   </a>
+
 </p>
 
 ---
+
+<!-- ===================== FOOTER ===================== -->
 
 <h3 align="center">
   ✨ Learning • Building • Improving ✨
 </h3>
 
 <p align="center">
-  Thanks for visiting my profile!
+  Thanks for visiting my profile! ⭐
 </p>
